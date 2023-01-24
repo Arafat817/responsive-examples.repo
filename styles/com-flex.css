@@ -34,7 +34,7 @@ img{
         flex-direction: column;
     }
 }
-.third-row-second-container{
+    .third-row-second-container{
     grid-template-columns: repeat(1, 1fr);
 }
 @media screen and (min-width:577px) {
